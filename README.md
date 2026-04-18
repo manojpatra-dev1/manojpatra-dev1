@@ -1,7 +1,7 @@
 # 💫 Hi 😊, I'm Manoj Patra
 
 
-Python Fullstack Engineer
+Python Fullstack Engineer(FRESHER)
 
 
  from India
